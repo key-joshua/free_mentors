@@ -8,7 +8,8 @@
     "contact": { "email": "k.joshua855@gmail.com" }
   },
 
-  "host": "localhost:2000",
+  "host": "https://free-mentors.onrender.com",
+  "host-local": "localhost:2000",
   "basePath": "/api/v1",
   "tags": [
     {
